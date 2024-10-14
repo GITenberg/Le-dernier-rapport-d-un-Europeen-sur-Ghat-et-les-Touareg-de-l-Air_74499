@@ -1,0 +1,32 @@
+_repo: Le-dernier-rapport-d-un-Europeen-sur-Ghat-et-les-Touareg-de-l-Air_74499
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Schirmer, Henri
+    gutenberg_agent_id: '57527'
+    url: http://www.gutenberg.org/2009/agents/57527
+creator:
+  author:
+    agent_name: Bary, Erwin von
+    gutenberg_agent_id: '57526'
+    url: http://www.gutenberg.org/2009/agents/57526
+description: ''
+gutenberg_issued: '2024-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74499'
+language: fr
+pgterms:marc904: https://www.digitale-sammlungen.de/de/view/bsb11865988
+pgterms:marc905: 20240825231027vonbary
+pgterms:marc906: '1898'
+pgterms:marc907: FR
+production_note: Galo Flordelis (This file was produced from images generously made
+  available by the Bayerische Staatsbibliothek)
+publication_note: '  $aParis :$bFischbacher, $c1898.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le dernier rapport d'un Européen sur Ghât et les Touareg de l'Aïr
+url: http://www.gutenberg.org/ebooks/74499

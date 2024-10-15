@@ -5,12 +5,17 @@ contributor:
     agent_name: Schirmer, Henri
     gutenberg_agent_id: '57527'
     url: http://www.gutenberg.org/2009/agents/57527
+covers:
+- cover_type: archival
+  image_path: 74499-h/images/cover.jpg
 creator:
   author:
     agent_name: Bary, Erwin von
     gutenberg_agent_id: '57526'
     url: http://www.gutenberg.org/2009/agents/57526
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74499#Le-dernier-rapport-d-un-Europeen-sur-Ghat-et-les-Touareg-de-l-Air
 gutenberg_issued: '2024-10-01'
 gutenberg_type: Text
 identifiers:
